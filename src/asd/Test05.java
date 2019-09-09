@@ -13,7 +13,7 @@ public class Test05 {
 	 public int j = print("j");
 	 {
 	  System.out.println("asd");
-	  print("构造器");
+	  print("构造器asd");
 	 }
 	 static {
 	  
