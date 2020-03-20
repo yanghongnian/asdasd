@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>asd</name>
+	<name>asd</na123me>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
+			<name>org.eclipse.jdt.core.javabuilder</name>asd
 			<arguments>
 			</arguments>
 		</buildCommand>
